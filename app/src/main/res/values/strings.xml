@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Services</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="download">Download</string>
+    <string name="retry">Retry</string>
+    <string name="please_wait">Please wait</string>
+    <string name="cancel">Cancel</string>
+</resources>
